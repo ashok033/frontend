@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <marquee behavior="" direction=""><h1>Registration Form</h1></marquee>
+    <form action="">
+      <label for="">Name <span style="color: red">*</span> :</label
+      ><input type="text" placeholder="Enter Your Name" /> <br />
+      <label for="">Fater Name <span style="color: red">*</span> :</label
+      ><input type="text" placeholder="Enter Your Father Name" /> <br />
+      <label for="">Mother Name <span style="color: red">*</span> :</label
+      ><input type="text" placeholder="Enter Your Mother Name" /> <br />
+      <label for="">Phone Number <span style="color: red">*</span> :</label
+      ><input type="number" placeholder="Enter Your Phone Number" /> <br />
+      <label for="">Email <span style="color: red">*</span> :</label
+      ><input type="email" placeholder="Enter Your Email" /> <br />
+      <label for="">D.O.B <span style="color: red">*</span> :</label
+      ><input type="date" /> <br />
+      <label for="">Upload Photo <span style="color: red">*</span> :</label
+      ><input type="file" /> <br />
+      <label for="">Gender <span style="color: red">*</span> :</label
+      ><input type="radio" name="saswat" />Female
+      <input type="radio" name="saswat" />Male
+      <input type="radio" name="saswat" />Others <br />
+      <label for="">Address:</label><textarea name="" id=""></textarea> <br />
+      <label for="">State:</label
+      ><select name="" id="">
+        <option value="">Select State</option>
+        <option value="">Odisha</option>
+        <option value="">West Bengal</option>
+        <option value="">Bihar</option>
+        <option value="">Telengana</option>
+      </select>
+      <label for="">Dist:</label
+      ><select name="" id="">
+        <option value="">Select Dist</option>
+        <option value="">Khorda</option>
+        <option value="">Puri</option>
+        <option value="">Cuttack</option>
+        <option value="">Jajpur</option>
+      </select>
+      <br />
+
+      <label for="">Password:</label><input type="password" /> <br />
+
+      <button>Submit</button>
+    </form>
+  </body>
+</html>

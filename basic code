@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My First Webpage</h1>
+    <P>i am <span style="color: rgb(136, 255, 0);">Niharika</span> and i am form kendrapara. i am study in kmbb and i am a cse student.</P>
+    <P>i am a dancer and i am a good content writer</P>
+    <img src="https://blog.bharatlyrics.com/wp-content/uploads/2023/12/Neha-Kakkar-Wiki.png" alt="Neha">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xtgC88yFXeM?si=uqgMhcRKkkC_ZK3O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <ol style="list-style-type: upper-roman">
+        <li>english</li>
+        <li>odia</li>
+        <li>math</li>
+        <li>science</li>
+    </ol>
+    <ul style="list-style-type: none">
+        <li>mass</li>
+        <li>hero</li>
+        <li>lron man</li>
+        <li>avanger</li>
+    </ul>
+    <hr>
+    
+</body>
+</html>
